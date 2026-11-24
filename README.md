@@ -100,3 +100,20 @@ Confusion Matrix	Shows correct and incorrect predictions for each class.
 - It analyzes agricultural datasets and predicts organic farming suitability.
 - Different Machine Learning techniques help identify patterns and make predictions.
 - The project provides a foundation for developing smart and sustainable farming solutions.
+1. Data Collection
+Agricultural Dataset
+2. Data Preprocessing
+Cleaning and Preparing Data
+3. Exploratory Data Analysis
+Graphs and Data Visualization
+4. Feature Selection
+Selecting Important Features
+5. Model Training
+Applying ML Algorithms
+6. Model Evaluation
+Accuracy, Precision, Recall and F1-Score
+7. Prediction
+Organic Farming Suitability Result
+8. GitHub Upload
+Project Code, Dataset and Documentation
+
